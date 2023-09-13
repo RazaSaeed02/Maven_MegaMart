@@ -1,12 +1,15 @@
 # Maven MegaMart
-- Maven MegaMart is a multinational corporation that operates a chain of retail and grocery stores.
+Maven MegaMart is a multinational corporation that operates a chain of retail and grocery stores.
+
 
 ## Business Case
 - Maven MegaMart is looking to acquire a new retailer to diversify product offerings and increase market share.
 
+
 ## Project Objectives
 - To deliver key insights about the retailers sales history.
 - To identify retailers main strengths by analyzing transaction history by product, store and household
+
 
 ## Key Insights
 
