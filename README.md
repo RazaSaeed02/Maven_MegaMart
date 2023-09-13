@@ -8,7 +8,7 @@ Maven MegaMart is a multinational corporation that operates a chain of retail an
 
 ## Project Objectives
 - To deliver key insights about the retailers sales history.
-- To identify retailers main strengths by analyzing transaction history by product, store and household
+- To identify retailers main strengths by analyzing transaction history by product, store and household.
 
 
 ## Key Insights
@@ -23,6 +23,6 @@ Maven MegaMart is a multinational corporation that operates a chain of retail an
 - The income group which generated the most sales earn an income between $50,000 - $74,000 per year.
 - The 55-64 age group whose household composition is unknown generate the highest average sales.
 
-### Product Demographic Analysis
+### Product Demographics Analysis
 - The youngest age group in the dataset is between 19-24 years old.
 - This age group performs best in the Spirits category. This could be because people in this age group may be in college/university where a lot of drinking takes place.
